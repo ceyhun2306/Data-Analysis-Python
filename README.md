@@ -1,4 +1,4 @@
-# data-analysis-python
+# Data-Analysis-Python
 Data analysis project using Python (Pandas, NumPy, Matplotlib, Seaborn) including data cleaning, exploration, and visualization.
 
 ## Project Overview
