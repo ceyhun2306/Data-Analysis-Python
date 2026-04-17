@@ -1,8 +1,12 @@
 # Data-Analysis-Python
 Data analysis project using Python (Pandas, NumPy, Matplotlib, Seaborn) including data cleaning, exploration, and visualization.
 
+---
+
 ## Project Overview
 This repository contains multiple data analysis projects performed using Python. The focus is on data cleaning, exploratory data analysis (EDA), and data visualization to extract meaningful insights.
+
+---
 
 ## Tools & Technologies
 - Python
@@ -10,6 +14,8 @@ This repository contains multiple data analysis projects performed using Python.
 - NumPy
 - Matplotlib
 - Seaborn
+
+---
 
 ## Analyses
 
@@ -29,12 +35,16 @@ This repository contains multiple data analysis projects performed using Python.
 - Conducted EDA across GPA, skills (Python/SQL/Java), interests, and career paths
 - Identified career demand trends for better academic & training alignment
 
+---
+
 ## Key Skills Demonstrated
 - Data Cleaning
 - Exploratory Data Analysis (EDA)
 - Data Visualization
 - Critical Thinking
 - Problem Solving
+
+---
   
 ## Sample Visualizations
 <img width="1389" height="495" alt="download" src="https://github.com/user-attachments/assets/809a6974-e983-4d09-864b-fe901d05a5f6" />
@@ -50,6 +60,8 @@ This repository contains multiple data analysis projects performed using Python.
 - High attendance has a stronger impact than study hours
 - Best results achieved with both high attendance and study time
 - Low attendance significantly reduces the likelihood of top performance
+
+---
 
 ## Learning & Development
 This repository reflects my continuous development in data analytics. Each project builds on the previous one, improving my ability to analyze complex datasets, extract insights, and apply structured analytical thinking.
